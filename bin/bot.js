@@ -5,9 +5,10 @@ var PropsBot = require('../lib/propsbot');
 var token = process.env.BOT_API_KEY;
 // var name = process.env.BOT_NAME;
 
-var norrisbot = new PropsBot({
+var propsbot = new PropsBot({
     token: token,
     // name: name
 });
 
-norrisbot.run();
+propsbot.run();
+
