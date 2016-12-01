@@ -14,6 +14,8 @@
   "author": "The Meeseeks @ Workday",
   "license": "ISC",
   "dependencies": {
-    "slackbots": "^0.5.3"
+    "slackbots": "^0.5.3",
+    "soap":"^0.18.0",
+    "wssecurity": "^0.2.4"
   }
 }
