@@ -11,5 +11,9 @@
     "url": "(https://github.com/themeseeks/Propsbot.git)"
   },
   "author": "The Meeseeks @ Workday",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.3",
+    "sqlite3": "^3.1.8"
+  }
 }
