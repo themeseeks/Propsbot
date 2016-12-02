@@ -28,5 +28,11 @@
             "name" : "Daniel Burch",    
             "Employee_ID" : 22662,
             "email" : "daniel.burch@workday.com"
+    },
+    {   
+            "username" : "steve.morgan",
+            "name" : "Steve Morgan",    
+            "Employee_ID" : 21002,
+            "email" : "daniel.burch@workday.com"
     }
 ]
