@@ -16,6 +16,8 @@
   "dependencies": {
     "slackbots": "^0.5.3",
     "soap":"^0.18.0",
-    "wssecurity": "^0.2.4"
+    "wssecurity": "^0.2.4",
+    "xpath.js": "1.0.7",
+    "xmldom": "*"
   }
 }
