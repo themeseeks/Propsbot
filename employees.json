@@ -1,0 +1,32 @@
+[
+    {
+            "username" : "tim.lange",
+            "name" : "Tim Lange",
+            "Employee_ID" : 21894,
+            "email" : "tim.lange@workday.com"
+    },
+    {   
+            "username" : "anthony.rizzo",
+            "name" : "Anthony Rizzo",    
+            "Employee_ID" : 21021,
+            "email" : "anthony.rizzo@workday.com"
+    },
+    {   
+            "username" : "logan.mcneil",
+            "name" : "Logan McNeil",    
+            "Employee_ID" : 21001,
+            "email" : "logan.mcneil@workday.com"
+    },
+    {   
+            "username" : "andrew.bates",
+            "name" : "Andrew Bates",    
+            "Employee_ID" : 21727,
+            "email" : "andrew.bates@workday.com"
+    },
+    {   
+            "username" : "daniel.burch",
+            "name" : "Daniel Burch",    
+            "Employee_ID" : 22662,
+            "email" : "daniel.burch@workday.com"
+    }
+]
